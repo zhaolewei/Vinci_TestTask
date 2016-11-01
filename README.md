@@ -13,7 +13,7 @@ Vinci 笔试代码  2016.11.1
 
 
 
-./Vinci_TestTask_Android 内容为笔试第4题 
+./Vinci_TestTask_Android 内容为笔试第4题 (Android Studio)
 
 > 4.写一个android程序，把json文件插入数据库，并且设计一个列表，把所有数据展示出来
 
@@ -39,7 +39,7 @@ select Music.MusicName,Music.Singer,Address.DownloadUrl,Address.Size from Music 
 
 ### 演示效果
 
-[img](https://github.com/zhaolewei/Vinci_TestTask/result/result.png)
+![image](https://github.com/zhaolewei/Vinci_TestTask/blob/master/result/result.png)
 
 
 
